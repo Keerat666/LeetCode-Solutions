@@ -8,9 +8,9 @@
 - Once the issue is assigned, fork the repo and start working on it
 - If the problem is already solved in any other language than the one you have chosen, there would be an existing folder with the id and the name of the problem.
 - Add your solution inside that problem folder
-- If the folder is not created, then create the folder with the id and name as shown below in the picture
+- If the folder is not created, then create the folder with the id and name as explained in the folder structure block below
 - Raise a PR once you think you are ready
-- Make sure to tag the issue id/link as a PR Comment for enabling faster review of your commit
+- Make sure to mention the issue id/issue link in the PR Comment for enabling faster review of your commit
 - Wait for your PR to get reviewed
 - Once the PR is merged spread the word and keep contributing until your Hacktoberfest quota of PR's are done 
 
