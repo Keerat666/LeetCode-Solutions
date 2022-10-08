@@ -17,10 +17,13 @@
 
 ## Folder Structure
 
-![alt text for screen readers](hhttps://drive.google.com/file/d/147YDxk153Rih-xLHZmiZDSjxE0lyzvlI/view?usp=sharing "Leetcode Screenshot")
+![alt text](https://i.ibb.co/dQSyD0J/Screenshot-2022-10-09-at-3-27-51-AM.png)
 
 Then a valid folder structure would be : 
+
+```
 Leetcode-Easy/9-PalindromeNumber
+```
 
 Solution for the problem palindrome number should be uploaded inside this folder in any language of your choice.
 
