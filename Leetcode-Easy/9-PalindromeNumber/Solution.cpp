@@ -8,6 +8,7 @@ public:
             sum = sum*10 + n%10;
             n /= 10;
         }
-        return sum == x;
+        return (sum == x);
     }
+    
 };
