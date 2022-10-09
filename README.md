@@ -24,10 +24,21 @@ Then a valid folder structure would be :
 ```
 Leetcode-Easy/9-PalindromeNumber
 ```
+- Solution for the problem palindrome number should be uploaded inside this folder in any language of your choice.
 
-Solution for the problem palindrome number should be uploaded inside this folder in any language of your choice.
+
+## Repo Contributers
+
+A huge shout out to all the contributors on our repo ⭐️
+
+<a href="https://github.com/keerat666/LeetCode-HacktoberFest22/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=keerat666/LeetCode-HacktoberFest22" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 Hope you have a great time contributing to this repo.
+
 In case you are new to github,feel free to reach out to me via email on gurkeeratsondhi@gmail.com for any doubts!
 
-Happy Coding!
+Happy Coding 👨🏽‍💻
