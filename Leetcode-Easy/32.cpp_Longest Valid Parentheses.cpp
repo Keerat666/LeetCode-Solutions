@@ -3,7 +3,6 @@
 Create an empty stack and push -1 to it.
 The first element of the stack is used
 to provide a base for the next valid string.
-
 Initialize result as 0.
 
 If the character is '(' i.e. str[i] == '('),
