@@ -1,6 +1,6 @@
 ## Major Announcement 
 
-Hacktoberfest has excluded all repository contributions which were made to this repo because this repo contains a list of algorithms. Any repo which contains just a list or any kind of algorithms does not comply with their policies. I tried my best to convinve them about this repo not being one of them but they weren't convinced. I 
+Hacktoberfest has excluded all repository contributions which were made to this repo because this repo contains a list of algorithms. Any repo which contains just a list or any kind of algorithms does not comply with their policies. I tried my best to convinve them about this repo not being one of them but they weren't convinced.
 
 Really sorry to all the contributors who participated in this repo for the HacktoberFest.
 
