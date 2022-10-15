@@ -1,4 +1,24 @@
-# LeetCode-HacktoberFest
+## Major Announcement 
+
+Hacktoberfest has excluded all repository contributions which were made to this repo because this repo contains a list of algorithms. Any repo which contains just a list or any kind of algorithms does not comply with their policies. I tried my best to convinve them about this repo not being one of them but they weren't convinced. I 
+
+Really sorry to all the contributors who participated in this repo for the HacktoberFest.
+
+<a href="https://ibb.co/WvRCDKG"><img src="https://i.ibb.co/8gQkz8N/Screenshot-2022-10-15-at-5-47-59-PM.png" alt="Screenshot-2022-10-15-at-5-47-59-PM" border="0"></a>
+
+What I can max do next, is to get feedback from all of you and try to come up with repos for your favourite languages/frameworks
+
+https://github.com/Keerat666/LeetCode-Solutions/discussions/143
+
+In case someone wants to contribute for Express.js, they can check this repo out!
+
+https://github.com/Keerat666/ExpressJS-Starter-Template
+
+Really a big sorry to everyone but I hope the work that we have all done makes our Leetcoding experience a bit better!
+
+### Tl;dr : This repo is now excluded from Hacktoberfest22.
+
+# LeetCode-Solutions
 
 
 ## Instructions
